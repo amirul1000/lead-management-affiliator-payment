@@ -3,6 +3,8 @@
 Lead management & affiliator payment System in PHP MySQL
 =========================================================
 
+Lead management is a set of methodologies, systems, and practices designed to generate new potential business clientele, generally operated through a variety of marketing campaigns or programs.
+
 
 Youtube Tutorial : 
 
